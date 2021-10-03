@@ -1,3 +1,6 @@
 # BI_2021_Python
 Homework for BI.
-The script provides some simple tools for working with RNA/DNA sequences.
+
+The script task_1 provides some simple tools for working with DNA/RNA seq.
+
+The script units_converter convert some speed units.

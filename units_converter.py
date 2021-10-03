@@ -7,10 +7,10 @@ def kmh_to(from_unit, operation_number):
 
 
 def ms_to(from_unit, operation_number):
-    convert_operations = [(from_unit*36/10),
+    convert_operations = [(from_unit * 36/10),
                           from_unit,
-                          (from_unit*2.23694),
-                          (from_unit*0.000621371)]
+                          (from_unit * 2.23694),
+                          (from_unit * 0.000621371)]
     return round(convert_operations[operation_number-1], 3)
 
 
