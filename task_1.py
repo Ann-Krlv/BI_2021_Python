@@ -62,7 +62,7 @@ if __name__ == '__main__':
         if com == "exit":
             print("Goodbye")
             break
-        i = 1 # i = 1 means error in sequence, i = 0 -- ok
+        i = 1  # i = 1 means error in sequence, i = 0 -- ok
         if com in func_dict:
             while i:
                 seq = input("Enter sequence: ")
