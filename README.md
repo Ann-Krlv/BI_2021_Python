@@ -7,3 +7,4 @@ The script units_converter convert some speed units (incorrect work).
 
 The script fastq_filtrator filter fastq files by GC-percentage, average quality and lenght.
 
+Folder Virtual_environment_research contain homework with requirmens etc
