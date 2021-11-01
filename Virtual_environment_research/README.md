@@ -20,6 +20,7 @@ cd ./Virtual_environment_research
 2. Using virtual environment is recommended
 
 The script correct working is checked in virtualenv (v. 20.8.0)
+
 *Install python 3.9 and venv:*
 ```
 sudo apt-get update
