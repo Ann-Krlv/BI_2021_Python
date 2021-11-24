@@ -1,9 +1,11 @@
 # Regexp HomeWork
 Script "reg_script.py" has created the results below.
 ## Task 1
- in file ftps (all link cases) and ftps_unique (unique links)
+ Results are in the files "ftps" (all link cases) and "ftps_unique" (unique links)
 ## Task 2
-All numbers in the text* 2430
+All numbers in the text
+
+* 2430
 * 1969
 * 2430
 * 2430
@@ -16,10 +18,12 @@ All numbers in the text* 2430
 * 460
 * 2430
 ## Task 3
-All words with "a" letter
+All words with "a" character
 
-larger achieved planet continental machinery nightmare rabbits shall amused dinosaurs preparations waved almost advance stand eventually about organic trail gathered campbell day evaluate apartment decades irritably are reason meant maintained population cages all square steady half chance state stare remained reaching fears increase another normal ask infants unable really large learning placid heard deaths athletic exasperation peak acted hair handing estimated placidity ache guinea romanticized adjusted demanded regulated genetically magazine attempt equal asset ocean has abandoned many ate rate original plants quantity avoided substance wasted contract perhaps plankton amphibians irradiated asked blade character necessary matter have air deviants ashamed multiplication land libraries capacity made voluntarily varied space margin paused changed dawn planetary haven insinuating sparsely greatest harvest uninhabited inhabitants compare ready generation tolerated basked stayed read signaled organized uneasily waited talked wasteful departed had far reached manner finally brain calm sea social creatures exactly idea having inhuman paid carefully amount repaired advances crazy passed again a man tact millennia pale humans take dreaded an representative hand at goal last situation peacefully replaced irritates replacement persuaded thousands cannot peace came ad talking mankind learn back calories head way waiting appropriate animal established father resistance placidly matches care years fan death madness was varieties family vast personality starship said anywhere jaw someday jackass plastic want intangible annoyance rampways clear standing case muscular against placoderms sat wants small gray destination walking farms each prepared also vapors idealist wall sunlamps heaved as earthlike can start around instance ignorant war adjustment talk wait reach throat capable lizards what harm stars wastes seared real unallayed than disregarded taking year mad ago carnivores already unusual above earth rather art heat act solar packed universal leading flaw giant accede added humanity conceivable wasn say taken persuade saw certain animals carry favor that bears feared great chances mammals blank literally celebrate escape largest carbon distance escaped may along transferred accepted stairs peaceful ran alvarez imitating sympathy agree human after gaze always faded treated combination necessarily angrily total tall same asking called understand because variety cranwitz audible activities measure grass face gleam easy establishment dreamed whatever hadn and past 
+established as stayed solar cages machinery animal and meant evaluate transferred was calories state planet inhuman sparsely persuaded variety animals vapors same quantity manner varieties idealist unable uneasily at guinea than favor resistance larger fan muscular varied unusual really finally achieved about abandoned libraries space ashamed say heard wasn carefully way all anywhere added reached peacefully waved deaths necessary harm original reaching wants after peak infants small wasted amphibians made personality war ate equal activities decades distance starship wait placidity unallayed hand around crazy head capable tall organized hair humanity annoyance inhabitants gleam tact years easy sympathy bears necessarily total social carnivores vast substance talk want last multiplication imitating fears advances chances human art gaze farms haven understand gray man dreaded above faded exactly compare blank representative peaceful alvarez amused called genetically standing calm sunlamps ran ready mankind face may passed ignorant prepared measure pale eventually carbon jaw earthlike thousands take preparations whatever paid wall flaw escape creatures continental shall largest care ache leading land came madness appropriate stairs literally jackass heat clear talked advance year family escaped asking placidly seared waiting rate planetary accepted estimated harvest perhaps remained rabbits great that insinuating throat disregarded regulated plants square case packed combination always brain act far heaved day has past someday universal stand half instance humans establishment character dreamed idea agree millennia greatest angrily plastic wasteful peace had accede along each again tolerated replaced death reason already treated matches many taken organic air because irradiated athletic intangible campbell ocean almost goal attempt amount departed situation placid large cannot also uninhabited nightmare celebrate margin asset mad acted dinosaurs earth voluntarily talking paused cranwitz an irritates audible stars deviants can changed sat exasperation hadn placoderms destination giant adjustment start wastes taking learn adjusted waited lizards maintained rather reach capacity walking have irritably chance saw plankton sea demanded blade dawn feared ask mammals conceivable steady replacement generation apartment back carry romanticized certain population gathered increase a magazine signaled learning asked another against trail real basked matter ad persuade father repaired grass what said are ago having contract avoided stare read normal rampways handing 
  ## Task 4
+All sentences that end with "!"
+
 * Yes!
 * Literally!
 * There was once a time!

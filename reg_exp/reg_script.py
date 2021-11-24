@@ -3,7 +3,7 @@ import seaborn as sns
 
 with open('README.md', 'w') as readme:
     intro = '# Regexp HomeWork\nScript "reg_script.py" has created the results below.\n'
-    task1 = '## Task 1\n in file ftps (all link cases) and ftps_unique (unique links)\n'
+    task1 = '## Task 1\n Results are in the files "ftps" (all link cases) and "ftps_unique" (unique links)\n'
     readme.write(intro)
     readme.write(task1)
 
@@ -31,7 +31,7 @@ pattern2 = re.compile(r'\d+')
 with open('2430AD', 'r') as text:
     numbers = pattern2.findall(text.read())
 with open('README.md', 'a') as res:
-    res.write('## Task 2\nAll numbers in the text')
+    res.write('## Task 2\nAll numbers in the text\n\n')
     for i in numbers:
         res.write(f'* {i}\n')
 
@@ -45,7 +45,7 @@ with open('2430AD', 'r') as text:
 
 words_A = set([i.lower() for i in words_A])
 with open('README.md', 'a') as res:
-    res.write('## Task 3\nAll words with "a" letter\n\n')
+    res.write('## Task 3\nAll words with "a" character\n\n')
     for i in words_A:
         res.write(f'{i} ')
 
@@ -57,7 +57,7 @@ pattern4 = re.compile(r'[A-Z]+[^!?.]*!')
 with open('2430AD', 'r') as text:
     sentences = pattern4.findall(text.read())
 with open('README.md', 'a') as res:
-    res.write('\n ## Task 4\n')
+    res.write('\n ## Task 4\nAll sentences that end with "!"\n\n')
     for i in sentences:
         res.write(f'* {i}\n')
 
