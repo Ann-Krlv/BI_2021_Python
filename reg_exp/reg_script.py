@@ -25,8 +25,8 @@ with open('ftps_unique', 'w') as ftps_uq:
 
 #  Task 2
 
-pattern2 = re.compile(r'\d+')
-# just one or more digit(s)
+pattern2 = re.compile(r'\d+\.?\d*')
+# one or more digit(s) then 0 or 1 dot, then 0 or more digits
 
 with open('2430AD', 'r') as text:
     numbers = pattern2.findall(text.read())
