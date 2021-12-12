@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import argparse
 import re
 import sys
@@ -26,7 +27,10 @@ if __name__ == "__main__":
     flags = [args.lines, args.words, args.bytes]
     func_list = [lambda x: 1,  # lines number incr
                  lambda x: len(re.findall(r'[\w-]+', x)),  # count words in line
-                 len]  # count bytes in line
-    list_to_run = [fun for (fun, flag) in zip(func_list, flags) if flag]
+                 lambda x: len(x.encode('utf-8'))]  # count bytes in line
+    if flags is True:
+        list_to_run = [fun for (fun, flag) in zip(func_list, flags) if flag]
+    else:
+        list_to_run = func_list
     sys.stdout.write(' '.join(map(str, lines_reader(text, list_to_run))))
     sys.stdout.write('\n')
