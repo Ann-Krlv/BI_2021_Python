@@ -12,5 +12,3 @@ for i in utils_list:
     os.chmod(source, stat.S_IRWXU)
     new_path = shutil.copyfile(source, dest)
     os.chmod(new_path, stat.S_IRWXU)
-
-
