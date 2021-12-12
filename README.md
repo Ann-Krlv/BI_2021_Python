@@ -7,3 +7,8 @@ The script units_converter convert some speed units (incorrect work).
 
 The script fastq_filtrator filter fastq files by GC-percentage, average quality and lenght.
 
+The folder reg_exp contains my homework with regular expressions (and automatically generate another readme.md with answers in the reg_exp folder)
+
+The script functions.py contains some functions which create other functions or apply single-argument functions to many ~~functions~~ arguments :)
+
+The folder unix_commans has its own readme and you can read it there
