@@ -23,7 +23,7 @@ def func_chain(*args):
         for fun in args:
             x = fun(x)
         return x
-    return lambda x: constructed_function(x)
+    return constructed_function
 
 
 def multiple_partial(*args, **kwargs):
