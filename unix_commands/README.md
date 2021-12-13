@@ -3,6 +3,17 @@
 This folder contains 7 scripts that partially imitate the work of common Unix utilities (however their functionality is very restricted). 
 The scripts have the same names as standard Unix utilities. You can get information about each programm by `./script_name.py -h`.
 
+### List of the commands
+
+- `cat.py` without arguments (takes stdin or files and makes stdout with their contents)
+- `grep.py` without arguments (takes regular expression, then takes stdin or files and shows strings with matches as stdout)
+- `ls.py` with argument **-a** (shows files and directories from the path as stdout)
+- `mkdir.py` with argument **-p** or **--parents** (creates directory (one or more) or path with them, if -p chosen)
+- `rm.py` with argument **-r** or **--recursively** (removes files or directories if --recursively chosen)
+- `sort.py` without arguments (takes stdin or files and makes stdout with lexicographically sorted contents' lines)
+- `tail.py` with **-n** argument (takes stdin or files and makes stdout with last n strings)
+- `wc.py` with **-l**, **-w** and **-c** flags (respectively **--lines**, **--words** and **--bytes**) (takes stdin or files and makes stdout with number of 'flag' objects)
+
 ### Requirements
 
 - The scripts use standard python library only, so you don't need to install any other modules.
