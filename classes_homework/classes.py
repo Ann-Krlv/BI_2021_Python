@@ -28,7 +28,7 @@ class Student:
         if self.hp < 0:
             return 'Dead', [self.hp, self.knowledge]
         elif self.knowledge < 0:
-            return f'Otchisleno', [self.hp, self.knowledge]
+            return 'Otchisleno', [self.hp, self.knowledge]
         else:
             return 'Lives and studies', [self.hp, self.knowledge]
 
