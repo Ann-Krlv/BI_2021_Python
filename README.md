@@ -12,3 +12,5 @@
 5. The script **functions.py** contains some functions which create other functions or apply single-argument functions to many ~~functions~~ arguments :)
 
 6. The **folder unix_commans** has its own readme and you can read it there
+
+7. The **folder classes_homework** contains my homework with python classes (now with jupyter notebook)
