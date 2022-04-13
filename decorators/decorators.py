@@ -95,7 +95,6 @@ if __name__ == '__main__':
     def dice():
         return random.randint(1, 7)
 
-
     print('Task 3. Example (roulette decorator)')
     for _ in range(10):
         print(dice())
