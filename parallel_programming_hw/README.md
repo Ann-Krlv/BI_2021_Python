@@ -16,12 +16,10 @@ chmod +x fasta_counter.py
 Usage example:
 
 ```commandline
+path_to/fasta_counter.py --help
 path_to/fasta_counter.py --input your_file.fasta --threads 1 > output.txt
 ```
-
 As example fasta you can use *Lamellibrachia satsuma* reference genome (accession number GCA_022478865.1, file size - 674 MB).
-
-(Also you can run `path_to/fasta_counter.py --help` for information about options)
 
 ### 2. Bonus task
 
